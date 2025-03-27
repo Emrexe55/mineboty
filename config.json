@@ -1,3 +1,7 @@
 {
- "token": "your_token"
+ "ip": "Emre_exeTT.aternos.me",
+ "port": "34528",
+ "name": "BOT",
+ "auto-night-skip": "false",
+ "loginmsg": "/login iambot"
 }
